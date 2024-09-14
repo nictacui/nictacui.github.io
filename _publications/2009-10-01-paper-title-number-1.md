@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Theoretical exploration of novel boron–carbon clathrate in Sr (B, C) 10 at high pressure"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
