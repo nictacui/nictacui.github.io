@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Yangfan, a fourth-year Ph.D student in Qufu Normal University (QFNU), advised by [Xin Chen](https://www.x-mol.com/groups/hppms/people/16465).
+Hi, I am Yangfan, a fourth-year Ph.D student at Qufu Normal University (QFNU), advised by [Xin Chen](https://www.x-mol.com/groups/hppms/people/16465). I received my bachelor's degree at QFNU in 2020. Currently, my research interests are mainly in discovering high-performance thermal-electric materials.
 
 A data-driven personal website
 ======
